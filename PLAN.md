@@ -8,6 +8,11 @@ Scale at handoff: ~479 repositories under the account (~338 public, ~141
 private). The crawl must discover the **unknown** ones too, not just the known
 `rapp-*` set.
 
+**You are not alone.** Multiple models build this in parallel. Before writing
+anything, read [`CONCURRENCY.md`](CONCURRENCY.md) — partition by file, claim your
+scope, rebase before push, never hand-edit generated aggregates. The phases below
+assume that protocol.
+
 ---
 
 ## Phase 0 — The safety contract (read twice, never break)
