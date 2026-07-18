@@ -71,7 +71,7 @@ archived). Emit `classification.json`:
 
 ## Phase 2 — Synthesize the two brains
 
-Reuse the proven structure (already used for the maintainer's private CEO brain):
+Reuse the proven structure (established elsewhere in this estate):
 **MOC / question-index Home over a PARA-lite spine, atomic claim-titled notes,
 one bolded BLUF line per note, consistent frontmatter.** Do not reinvent it.
 
